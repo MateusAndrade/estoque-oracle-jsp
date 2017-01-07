@@ -1,0 +1,49 @@
+body {
+  padding-top: 70px;
+  padding-bottom: 70px; }
+
+.alinha-icone-navbar {
+  margin-top: -8px; }
+
+.navbar-cor {
+  background: #2196F3;
+  color: white; }
+  .navbar-cor a, .navbar-cor p {
+    color: white !important;
+    font-weight: bolder; }
+  .navbar-cor .navbar-link-ativo {
+    color: white;
+    background-color: #1E88E5; }
+
+.estoque-baixo {
+  background: #E53935;
+  color: white; }
+
+.sessao-ativa {
+  color: #757575 !important; }
+
+.btn > .alinha-icone {
+  margin-left: 5px; }
+
+button > p {
+  margin: 0;
+  padding: 0; }
+
+td > a {
+  color: initial; }
+
+.background-login {
+  background: #ECE9E6;
+  /* fallback for old browsers */
+  background: -webkit-linear-gradient(to left, #ECE9E6, #FFFFFF);
+  /* Chrome 10-25, Safari 5.1-6 */
+  background: linear-gradient(to left, #ECE9E6, #FFFFFF);
+  /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */ }
+
+.login-box {
+  background-color: red;
+  padding: 50px;
+  border-radius: 10px;
+  border: 1px solid black; }
+
+/*# sourceMappingURL=vanilla.css.map */
